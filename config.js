@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'ᴛʜᴇ ᴍᴋʙx-ʙᴏᴛ'
-global.premium = 'true'
+global.premium = 'false'
 global.packname = 'ᴛʜᴇ ᴍᴋʙx┃ᴮᴼᵀ' 
 global.author = 'ᴍᴋʙx' 
 global.menuvid = 'https://telegra.ph/MKBX-Bot-12-05'
